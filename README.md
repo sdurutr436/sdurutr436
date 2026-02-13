@@ -57,15 +57,6 @@ No solo escribo código, construyo soluciones desplegables y mantenibles.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdurutr436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdurutr436&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-</div>
-
----
-
 <div align="center">
   <h3>📫 ¿Hablamos de código o de ciencia?</h3>
   
