@@ -1,27 +1,25 @@
-# 👋 ¡Hola! Soy un Desarrollador Web con ADN Científico
+# Hola, soy Sergio — Desarrollador Web con Background Científico
 
-### 🧪 Técnico de Laboratorio (TLCB) ➔ 💻 Full Stack Developer (DAW)
+### Técnico de Laboratorio (TLCB) → Full Stack Developer (DAW)
 
 > *"Aplico la precisión y metodología del laboratorio clínico a la arquitectura de software y la automatización de procesos."*
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy un desarrollador de software con un background único en el sector sanitario. Mi experiencia procesando muestras críticas me enseñó que **el detalle lo es todo**, una filosofía que ahora aplico al código limpio, el despliegue seguro y la experiencia de usuario.
+Desarrollador de software con background en el sector sanitario. Mi experiencia procesando muestras críticas me enseñó que **el detalle lo es todo**. Una filosofía que ahora aplico al código limpio, el despliegue seguro y la experiencia de usuario.
 
-Actualmente estoy enfocado en el ecosistema **Java Enterprise** y **Angular**, mientras exploro el mundo del **DevOps** y la automatización de tareas aburridas.
+Actualmente en prácticas en **MarinWbanet**, donde estoy enfocando mis esfuerzos en aplicaciones de tipo **Serverless** en **Digital Ocean**. Ahora mismo me encuentro de forma personal:
 
-*   🔭 **Trabajando en:** Una suite de automatización *PropTech* para la transición de tareas manuales en el sector de alquileres vacacionales (integrando APIs de reservas, mapas de calor y Google Services).
-*   🌱 **Aprendiendo:** Godot Engine (Game Dev) y optimización de despliegues con Docker.
-*   🎯 **Objetivo:** Unir HealthTech y automatización para crear software que resuelva problemas reales.
-*   📍 **Ubicación:** Cádiz, España.
+- **Trabajando en:** Una suite *PropTech* para automatizar la gestión de alquileres vacacionales (APIs de reservas, mapas de calor, Google Services), unificando servicios sin llegar a ser un PMS (ser el puente de enlace entre las distintas herramientas).
+- **Aprendiendo:** Godot Engine y optimización de despliegues con Docker y Podman.
+- **Objetivo:** Unir HealthTech y automatización para crear software que resuelva problemas reales.
+- **Ubicación:** Cádiz y San Fernando, España.
 
 ---
 
 ## 🛠 Arsenal Tecnológico
-
-No solo escribo código, construyo soluciones desplegables y mantenibles.
 
 ### Lenguajes que manejo:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -43,22 +41,21 @@ No solo escribo código, construyo soluciones desplegables y mantenibles.
 
 ---
 
-## 💡 Proyectos Destacados
+## Proyectos Destacados
 
-### 🏨 [PropTech Automation Suite] (En desarrollo)
-*Una herramienta integral para automatizar la gestión operativa de apartamentos turísticos.*
-*   **Reto:** Eliminar ciertas gestiones manuales y comunicaciones repetitivas.
-*   **Solución:** Sistema que genera mapas de calor de ocupación, gestiona emails transaccionales personalizados (según hora de llegada) y sincroniza contactos con Google People API.
-*   **Tech:** Pendiente de elección.
+### PropTech Automation Suite *(En desarrollo)*
+Herramienta para automatizar la gestión operativa de apartamentos turísticos.
+- **Reto:** Eliminar gestiones manuales y comunicaciones repetitivas, haciendo de puente entre distintas herramientas que no tienen conexión entre si.
+- **Solución:** Mapas de calor de ocupación, emails transaccionales personalizados y sincronización con Google People API
+- **Tech:** React para el frontend, Nginx como proxy inverso, Docker para conteneirización y 
 
-### 🩺 [Laboratorio & Salud]
-*Mi background sanitario me permite entender flujos de trabajo en LIMS (Laboratory Information Management Systems).*
-*   Experiencia real en gestión de muestras, control de calidad y trazabilidad, lista para ser aplicada en desarrollo de software médico (HealthTech).
+### Laboratorio & HealthTech
+Mi background sanitario me aporta conocimiento real sobre flujos de trabajo en LIMS — gestión de muestras, control de calidad y trazabilidad — aplicable directamente al desarrollo de software de cualquier tipo.
 
 ---
 
 <div align="center">
-  <h3>📫 ¿Hablamos de código o de ciencia?</h3>
+  <h3>📫 Ponte en contacto conmigo</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergio-durán-utrera)
   [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duran.utrerasergio2612@gmail.com)
