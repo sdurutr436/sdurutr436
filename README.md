@@ -56,10 +56,12 @@ Herramienta para automatizar la gestión operativa de apartamentos turísticos.
 Mi background sanitario me aporta conocimiento real sobre flujos de trabajo en LIMS — gestión de muestras, control de calidad y trazabilidad — aplicable directamente al desarrollo de software de cualquier tipo.
 
 ---
-
 <div align="center">
-  <h3>📫 Ponte en contacto conmigo</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergio-durán-utrera)
-  [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duran.utrerasergio2612@gmail.com)
+
+  <h3>📫 Ponte en contacto conmigo</h3>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergio-durán-utrera)
+
+  [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duran.utrerasergio2612@gmail.com)
+
 </div>
