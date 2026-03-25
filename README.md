@@ -30,6 +30,8 @@ Actualmente en prácticas en **MarinWbanet**, donde estoy enfocando mis esfuerzo
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nunjucks](https://img.shields.io/badge/-Nunjucks-1C6D28?style=flat-square&logo=nunjucks&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### DevOps & Herramientas:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -47,8 +49,8 @@ Actualmente en prácticas en **MarinWbanet**, donde estoy enfocando mis esfuerzo
 ### PropTech Automation Suite *(En desarrollo)*
 Herramienta para automatizar la gestión operativa de apartamentos turísticos.
 - **Reto:** Eliminar gestiones manuales y comunicaciones repetitivas, haciendo de puente entre distintas herramientas que no tienen conexión entre si.
-- **Solución:** Mapas de calor de ocupación, emails transaccionales personalizados y sincronización con Google People API
-- **Tech:** React para el frontend, Nginx como proxy inverso, Docker para conteneirización y 
+- **Solución:** Mapas de calor de ocupación, emails transaccionales personalizados y sincronización con Google People API.
+- **Tech:** React para el frontend, Nginx como proxy inverso, Docker para conteneirización y PostgreSQL como base de datos.
 
 ### Laboratorio & HealthTech
 Mi background sanitario me aporta conocimiento real sobre flujos de trabajo en LIMS — gestión de muestras, control de calidad y trazabilidad — aplicable directamente al desarrollo de software de cualquier tipo.
@@ -56,8 +58,8 @@ Mi background sanitario me aporta conocimiento real sobre flujos de trabajo en L
 ---
 
 <div align="center">
-  <h3>📫 Ponte en contacto conmigo</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergio-durán-utrera)
-  [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duran.utrerasergio2612@gmail.com)
+  <h3>📫 Ponte en contacto conmigo</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sergio-durán-utrera)
+  [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duran.utrerasergio2612@gmail.com)
 </div>
