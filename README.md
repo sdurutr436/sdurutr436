@@ -41,6 +41,7 @@ Actualmente en prácticas en **MarinWbanet**, donde estoy enfocando mis esfuerzo
 
 ### Aprendiendo actualmente:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 
 ---
 
