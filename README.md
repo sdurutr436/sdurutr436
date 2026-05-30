@@ -10,7 +10,7 @@
 
 Desarrollador de software con background en el sector sanitario. Mi experiencia procesando muestras críticas me enseñó que **el detalle lo es todo**. Una filosofía que ahora aplico al código limpio, el despliegue seguro y la experiencia de usuario.
 
-Actualmente en prácticas en **MarinWbanet**, donde estoy enfocando mis esfuerzos en aplicaciones de tipo **Serverless** en **Digital Ocean**. Ahora mismo me encuentro de forma personal:
+Ahora mismo me encuentro de forma personal:
 
 - **Trabajando en:** Una suite *PropTech* para automatizar la gestión de alquileres vacacionales (APIs de reservas, mapas de calor, Google Services), unificando servicios sin llegar a ser un PMS (ser el puente de enlace entre las distintas herramientas).
 - **Aprendiendo:** Godot Engine y optimización de despliegues con Docker y Podman.
