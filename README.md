@@ -1,25 +1,14 @@
-# Hola, soy Sergio — Desarrollador Web con Background Científico
-
-### Técnico de Laboratorio (TLCB) → Full Stack Developer (DAW)
-
-> *"Aplico la precisión y metodología del laboratorio clínico a la arquitectura de software y la automatización de procesos."*
+# Hola, soy Sergio — Desarrollador Web
 
 ---
-
-## Sobre mí
-
-Desarrollador de software con background en el sector sanitario. Mi experiencia procesando muestras críticas me enseñó que **el detalle lo es todo**. Una filosofía que ahora aplico al código limpio, el despliegue seguro y la experiencia de usuario.
 
 Ahora mismo me encuentro de forma personal:
 
-- **Trabajando en:** Una suite *PropTech* para automatizar la gestión de alquileres vacacionales (APIs de reservas, mapas de calor, Google Services), unificando servicios sin llegar a ser un PMS (ser el puente de enlace entre las distintas herramientas).
+- **Trabajando en:** Un proyecto autocontenido para institutos para organizar mejor entre profesores y alumnos empresas de práctricas
 - **Aprendiendo:** Godot Engine y optimización de despliegues con Docker y Podman.
-- **Objetivo:** Unir HealthTech y automatización para crear software que resuelva problemas reales.
-- **Ubicación:** Cádiz y San Fernando, España.
+- **Ubicación:** Cádiz, España
 
 ---
-
-## 🛠 Arsenal Tecnológico
 
 ### Lenguajes que manejo:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -44,19 +33,6 @@ Ahora mismo me encuentro de forma personal:
 ### Aprendiendo actualmente:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
-
----
-
-## Proyectos Destacados
-
-### PropTech Automation Suite *(En desarrollo)*
-Herramienta para automatizar la gestión operativa de apartamentos turísticos.
-- **Reto:** Eliminar gestiones manuales y comunicaciones repetitivas, haciendo de puente entre distintas herramientas que no tienen conexión entre si.
-- **Solución:** Mapas de calor de ocupación, emails transaccionales personalizados y sincronización con Google People API.
-- **Tech:** React para el frontend, Nginx como proxy inverso, Docker para conteneirización y PostgreSQL como base de datos.
-
-### Laboratorio & HealthTech
-Mi background sanitario me aporta conocimiento real sobre flujos de trabajo en LIMS — gestión de muestras, control de calidad y trazabilidad — aplicable directamente al desarrollo de software de cualquier tipo.
 
 ---
 <div align="center">
