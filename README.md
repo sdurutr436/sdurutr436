@@ -4,6 +4,7 @@
 
 Ahora mismo me encuentro de forma personal:
 
+- **Colaborando en:** El desarrollo de la Web App: El Plan de Cupido.
 - **Trabajando en:** Un proyecto autocontenido para institutos para organizar mejor entre profesores y alumnos empresas de práctricas
 - **Aprendiendo:** Godot Engine y optimización de despliegues con Docker y Podman.
 - **Ubicación:** Cádiz, España
